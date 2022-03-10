@@ -1,0 +1,2 @@
+golinux: 2022/02/14 07:59:48 C:/Users/dell/github/golang/src/learning/go_linux/log/logger.go:37: LOGGER ERROR: This is a test log entry
+golinux: 2022/02/14 08:06:08 logger.go:38: Test Error: Check blah blah
